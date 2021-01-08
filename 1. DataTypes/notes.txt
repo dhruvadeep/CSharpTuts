@@ -1,0 +1,9 @@
+Character	Meaning
+\'	Single quote
+\"	Double quote
+\\	Backslash
+\n	Newline
+\r	Carriage return
+\t	Horizontal Tab
+\a	Alert
+\b	Backspace
